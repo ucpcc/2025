@@ -5,6 +5,7 @@ title: UCPC 2024
 
 ## 주요 공지
 
+- (3/3) [Call for tasks](/tasks)를 진행합니다.
 - (3/2) UCPC 2024가 개최됩니다!
 
 ---
