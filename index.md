@@ -5,7 +5,9 @@ title: UCPC 2024
 
 ## 주요 공지
 
-- (3/3) [Call for tasks](/tasks)를 진행합니다.
+- (5/13) Call for Tasks 검토 결과를 이메일로 전송했습니다. 메일함을 확인해 주세요!
+- (4/15) [Call for Tasks](/tasks)가 마감되었습니다.
+- (3/3) [Call for Tasks](/tasks)를 진행합니다.
 - (3/2) UCPC 2024가 개최됩니다!
 
 ---
