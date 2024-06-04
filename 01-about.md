@@ -18,11 +18,13 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 
 ### 예선
 
-일시 미정 — 온라인
+7월 13일 토요일 14시 — 17시, 온라인
 
 ### 본선
 
-일시 미정 — 장소 미정
+8월 3일 토요일 — LG전자 서초R&D캠퍼스
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3166.9895932206587!2d127.03210407643292!3d37.4609676301737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca0d6774291b5%3A0x6179848e0f1544b0!2zTEfsoITsnpAg7ISc7LSIUiZE7Lqg7Y287Iqk!5e0!3m2!1sko!2skr!4v1717488281635!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## 참가 자격
 
