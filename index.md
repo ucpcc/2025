@@ -5,6 +5,7 @@ title: UCPC 2024
 
 ## 주요 공지
 
+- (6/??) UCPC 2024의 [참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsXiZJmeqX0AR_6nG7d_i2qiaXpbL4ZSi-olmWZGig65PtEQ/viewform)을 받고 있습니다. 참가 신청의 [승인 결과](https://docs.google.com/spreadsheets/d/16g5iZdJM67wqf3cUolCyGy3KZ6fsGQ6a23St5Umbpqk/edit) 또한 확인 가능합니다.
 - (6/4) 대회 일시 및 장소가 확정되었습니다.
 - (5/13) Call for Tasks 검토 결과를 이메일로 전송했습니다. 메일함을 확인해 주세요!
 - (4/15) [Call for Tasks](/tasks)가 마감되었습니다.
@@ -15,7 +16,9 @@ title: UCPC 2024
 
 ## 대회 일정 및 장소
 
-참가 신청 — 6월 29일까지
+참가 신청 — 2024년 6월 ??일부터 6월 29일까지
+
+[참가 신청 링크](https://docs.google.com/forms/d/e/1FAIpQLSfsXiZJmeqX0AR_6nG7d_i2qiaXpbL4ZSi-olmWZGig65PtEQ/viewform) · [참가 신청 승인 결과](https://docs.google.com/spreadsheets/d/16g5iZdJM67wqf3cUolCyGy3KZ6fsGQ6a23St5Umbpqk/edit)
 
 예선 — **7월 13일 (토요일)**, 온라인
 
