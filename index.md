@@ -5,6 +5,7 @@ title: UCPC 2024
 
 ## 주요 공지
 
+- (8/1) 본선 대회의 상품을 공지했습니다.
 - (6/11) 내일인 12일부터 UCPC 2024의 [참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsXiZJmeqX0AR_6nG7d_i2qiaXpbL4ZSi-olmWZGig65PtEQ/viewform)을 받을 예정입니다. 참가 신청의 [승인 결과](https://docs.google.com/spreadsheets/d/16g5iZdJM67wqf3cUolCyGy3KZ6fsGQ6a23St5Umbpqk/edit) 또한 내일부터 확인 가능합니다.
 - (6/4) 대회 일시 및 장소가 확정되었습니다.
 - (5/13) Call for Tasks 검토 결과를 이메일로 전송했습니다. 메일함을 확인해 주세요!
