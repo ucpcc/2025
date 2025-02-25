@@ -222,6 +222,8 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.20.0)
     mutex_m (0.2.0)
+    nokogiri (1.15.5-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.15.5-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.15.5-x86_64-linux)
@@ -263,8 +265,10 @@ GEM
       unf_ext
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
+    webrick (1.9.1)
 
 PLATFORMS
+  arm64-darwin-24
   x86_64-darwin
   x86_64-linux
 
@@ -273,6 +277,7 @@ DEPENDENCIES
   jekyll (~> 3.7)
   minima (~> 2.0)
   tzinfo-data
+  webrick
 
 BUNDLED WITH
-   2.4.19
+   2.6.5
