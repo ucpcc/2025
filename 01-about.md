@@ -4,12 +4,12 @@ title: 대회 안내
 permalink: /about/
 ---
 
-제13회 전국 대학생 프로그래밍 대회 동아리 연합 대회<sup>UCPC 2024</sup>가 열립니다!
+제14회 전국 대학생 프로그래밍 대회 동아리 연합 대회<sup>UCPC 2025</sup>가 열립니다!
 
 ## 대회 개요
 
 UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전대프연</sup>에서 진행하는 여름 대회입니다.
-2011년 제1회 UCPC를 시작으로 2023년까지 열두 번의 UCPC를 성공적으로 개최하였으며, 올해 열세 번째 대회를 준비하고 있습니다.
+2011년 제1회 UCPC를 시작으로 2024년까지 열세 번의 UCPC를 성공적으로 개최하였으며, 올해 열네 번째 대회를 준비하고 있습니다.
 
 매년 여름에 진행하는 UCPC는 ICPC를 준비하는 팀들에게 훌륭한 연습 기회가 되고 있고,
 프로그래밍 대회라는 하나의 공통적인 목표와 학구열을 가진 학생들에게 좋은 교류와 경쟁의 장이 되고 있습니다.
@@ -18,13 +18,11 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 
 ### 예선
 
-7월 13일 토요일 14시 — 17시, 온라인
+TBD
 
 ### 본선
 
-8월 3일 토요일 — LG전자 서초R&D캠퍼스
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3166.9895932206587!2d127.03210407643292!3d37.4609676301737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca0d6774291b5%3A0x6179848e0f1544b0!2zTEfsoITsnpAg7ISc7LSIUiZE7Lqg7Y287Iqk!5e0!3m2!1sko!2skr!4v1717488281635!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+TBD
 
 ## 참가 자격
 
@@ -64,14 +62,7 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 
 ## 본선 시상
 
-| 상격 | 상품 | 수상 조건 |
-| - | - | - |
-| 1등상 | 2023 애플워치 SE 2세대 | 본선대회 1등 |
-| 2등상 | 삼성전자 2세대 외장SSD 1TB | 본선대회 2등 — 3등 |
-| 3등상 | 풀리오 목어깨 마사지기 | 본선대회 4등 — 6등 |
-| 4등상 | 갤럭시 버즈2 FE | 본선대회 7등 — 10등 |
-| 5등상 | 필라 PREMIUM 마이크 CM-7010USB | 본선대회 11등 — 15등 |
-| 특별상 | 알리사 무선 휴대용선풍기 | ? |
+TBD
 
 ## 과거 대회 정보
 
@@ -79,6 +70,8 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 
 | 대회      |                                                           문제                                                           |                                 풀이                                  |                                          결과                                          |
 | --------- | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| 2024 본선 |                                   [문제](https://www.acmicpc.net/category/detail/4263)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1316)              |
+| 2024 예선 |                                   [문제](https://www.acmicpc.net/category/detail/4252)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1310)              |
 | 2023 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3630)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1069)              |
 | 2023 예선 |                                   [문제](https://www.acmicpc.net/category/detail/3613)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1067)              |
 | 2022 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3147)                                   | [풀이](https://static.ucpc.me/files/2022/ucpc22-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/828)               |
