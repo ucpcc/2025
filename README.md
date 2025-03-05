@@ -1,4 +1,4 @@
-# UCPC 2024 대회 안내 페이지
+# UCPC 2025 대회 안내 페이지
 
 ## Prerequisites
 
