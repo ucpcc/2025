@@ -5,6 +5,7 @@ title: UCPC 2025
 
 ## 주요 공지
 
+- (3/7) [Call for Tasks](https://2025.ucpc.me/tasks/)를 진행합니다.
 - (3/4) UCPC 2025가 개최됩니다!
 
 ---
