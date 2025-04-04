@@ -14,7 +14,11 @@ TBD
 
 ## 장소
 
-TBD
+LG전자 서초R&D캠퍼스([네이버맵](https://map.naver.com/p/entry/place/18748018))
+
+- 주차공간이 협소하니, 가급적 대중교통을 이용하시기 바랍니다.
+
+{%- include map.html -%}
 
 
 ---
