@@ -18,11 +18,11 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합<sup>전�
 
 ### 예선
 
-TBD
+7월 12일 토요일 14시 — 17시, 온라인
 
 ### 본선
 
-TBD
+7월 26일 토요일 11시 — 16시, LG전자 서초R&D캠퍼스
 
 ## 참가 자격
 
@@ -70,10 +70,10 @@ TBD
 
 | 대회      |                                                           문제                                                           |                                 풀이                                  |                                          결과                                          |
 | --------- | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
-| 2024 본선 |                                   [문제](https://www.acmicpc.net/category/detail/4263)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1316)              |
-| 2024 예선 |                                   [문제](https://www.acmicpc.net/category/detail/4252)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1310)              |
-| 2023 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3630)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1069)              |
-| 2023 예선 |                                   [문제](https://www.acmicpc.net/category/detail/3613)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/1067)              |
+| 2024 본선 |                                   [문제](https://www.acmicpc.net/category/detail/4263)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-finals-solutions.pdf) |              [대회 결과](https://www.acmicpc.net/contest/spotboard/1316)               |
+| 2024 예선 |                                   [문제](https://www.acmicpc.net/category/detail/4252)                                   | [풀이](https://static.ucpc.me/files/2024/ucpc24-prelim-solutions.pdf) |              [대회 결과](https://www.acmicpc.net/contest/spotboard/1310)               |
+| 2023 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3630)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-finals-solutions.pdf) |              [대회 결과](https://www.acmicpc.net/contest/spotboard/1069)               |
+| 2023 예선 |                                   [문제](https://www.acmicpc.net/category/detail/3613)                                   | [풀이](https://static.ucpc.me/files/2023/ucpc23-prelim-solutions.pdf) |              [대회 결과](https://www.acmicpc.net/contest/spotboard/1067)               |
 | 2022 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3147)                                   | [풀이](https://static.ucpc.me/files/2022/ucpc22-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/828)               |
 | 2022 예선 |                                   [문제](https://www.acmicpc.net/category/detail/3138)                                   | [풀이](https://static.ucpc.me/files/2022/ucpc22-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/827)               |
 | 2021 본선 |                                   [문제](https://www.acmicpc.net/category/detail/2743)                                   | [풀이](https://static.ucpc.me/files/2021/ucpc21-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/670)               |

@@ -10,7 +10,7 @@ permalink: /final/
 
 ## 일정
 
-TBD
+**7월 26일 (토)** 11:00 – 16:00
 
 ## 장소
 
@@ -19,7 +19,6 @@ LG전자 서초R&D캠퍼스([네이버맵](https://map.naver.com/p/entry/place/1
 - 주차공간이 협소하니, 가급적 대중교통을 이용하시기 바랍니다.
 
 {%- include map.html -%}
-
 
 ---
 
@@ -63,7 +62,6 @@ TBD
 - Kotlin: [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
 - Python: [https://docs.python.org/3/](https://docs.python.org/3/)
 
-
 ### 사용 가능한 프로그래밍 도구
 
 - 문제풀이에 사용되는 코드는 대회 시간에 작성되어야 합니다.
@@ -92,7 +90,9 @@ TBD
 - 문제에 대한 질의 사항은 대회 플랫폼의 질문 기능을 사용해 주시기 바랍니다. 대답해 드리기 어려운 질문에 대해서는 "답변을 드릴 수 없습니다"로 대답될 수 있음을 유의하세요.
 
 ## 채점 환경
+
 <!-- - [대회 안내](https://ucpc.acmicpc.net/info) 페이지를 참고해주세요. -->
+
 - 모든 문제는 대회에서 지원하는 언어 중 하나 이상을 이용하여 시간 제한과 메모리 제한 안에 풀 수 있음이 보장되어 있습니다.
 
 ## 사용 가능 언어
