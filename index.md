@@ -24,7 +24,12 @@ title: UCPC 2025
 
 ## UCPC 2025 스폰서
 
-TBD
+<div class="logoWrapper">
+  {%- include sponsors.html sponsor="organization" -%}
+</div>
+<div class="logoWrapper">
+  {%- include sponsors.html sponsor="individual" -%}
+</div>
 
 ---
 
