@@ -8,9 +8,12 @@ permalink: /sponsor/
   UCPC 2025 스폰서
 </h2>
 
-<h4 style="text-align: center;">
-  TBD
-</h4>
+<div class="logoWrapper">
+  {%- include sponsors.html sponsor="organization" -%}
+</div>
+<div class="logoWrapper">
+  {%- include sponsors.html sponsor="individual" -%}
+</div>
 
 ## 스폰서 문의
 
