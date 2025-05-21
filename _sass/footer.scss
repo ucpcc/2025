@@ -53,18 +53,26 @@ div.sponsors-grid {
 
 div.logoWrapper {
   display: flex;
-  flex-wrap: wrap;         /* 줄 바꿈 허용 */
-  justify-content: center; /* 각 줄에서 가운데 정렬 */
-  gap: 16px;               /* 간격 유지 */
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
   max-width: 1000px;
   margin: 0 auto;
   padding: 16px;
 }
 
 div.logo {
-  width: 140px;            /* 로고 크기 고정 */
+  width: 140px;
   height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+div.line {
+  width: 60px;
+  height: 2px;
+  background-color: var(--ucpc-gray-light);
+  margin: 0px auto;
+  border-radius: 2px;
 }
