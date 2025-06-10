@@ -5,7 +5,7 @@ title: UCPC 2025
 
 ## 주요 공지
 
-- (6/10) 오늘부터 UCPC 2025의 [참가 신청](https://forms.gle/zKg7qPYJsY3XdgAU8)을 받습니다. 신청은 **6월 30일 (월요일)**까지입니다.
+- (6/10) 오늘부터 UCPC 2025의 [참가 신청](https://forms.gle/zKg7qPYJsY3XdgAU8)을 받습니다. 신청은 6월 30일 (월요일)까지입니다.
 - (4/16) [Call for Tasks](https://2025.ucpc.me/tasks/)가 마감되었습니다.
 - (4/8) 대회 일시 및 장소가 확정되었습니다.
 - (3/7) [Call for Tasks](https://2025.ucpc.me/tasks/)를 진행합니다.
@@ -17,7 +17,7 @@ title: UCPC 2025
 
 참가 신청 — **6월 10일 (화요일)**부터 **6월 30일 (월요일)**까지
 
-[참가 신청 링크](https://forms.gle/zKg7qPYJsY3XdgAU8)
+<span style="font-size: 1.2em;">[참가 신청 링크](https://forms.gle/zKg7qPYJsY3XdgAU8)</span>
 
 예선 — **7월 12일 (토요일)**, 온라인
 
