@@ -6,14 +6,16 @@ permalink: /qualifier/
 
 ## 일정
 
-**7월 12일 (토)** 14:00 – 17:00, 온라인으로 진행됩니다.
+**7월 12일 (토)** 13:00 – 17:00, 온라인으로 진행됩니다.
 
 ---
 
 ## 대회 진행
 
+예선은 [ucpc.acmicpc.net](https://ucpc.acmicpc.net/info)에서 온라인으로 진행됩니다.
+
 - 참가팀에게 대회 며칠 전에 대회용 계정 정보를 나눠드릴 예정입니다. 위 사이트에서 이 계정으로 로그인해 대회를 치르면 됩니다.
-- 3명이 반드시 한 대의 컴퓨터를 사용할 필요는 없습니다. 자유롭게 진행해 주세요.
+- UCPC 2025 예선 대회에서는 **Zoom을 이용한 실시간 감독**을 진행할 예정입니다. 자세한 사항은 [링크](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)를 참고해 주세요.
 - 인터넷 검색을 이용하거나 미리 준비한 코드를 사용해도 됩니다.
 
 ### 유의사항
@@ -33,7 +35,7 @@ permalink: /qualifier/
 
 ## 채점 환경
 
-<!-- - [대회 안내](https://ucpc.acmicpc.net/info) 페이지를 참고해주세요. -->
+- [대회 안내](https://ucpc.acmicpc.net/info) 페이지를 참고해주세요.
 
 - 모든 문제는 대회에서 지원하는 언어 중 하나 이상을 이용하여 시간 제한과 메모리 제한 안에 풀 수 있음이 보장되어 있습니다.
 
