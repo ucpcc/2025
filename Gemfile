@@ -32,3 +32,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "jekyll", "~> 3.7"
 
 gem "webrick", "~> 1.9"
+
+gem "csv", "~> 3.3"
