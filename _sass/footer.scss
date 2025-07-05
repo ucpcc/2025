@@ -38,6 +38,30 @@ div.footer_contents div.sponsors {
   }
 }
 
+.footer-inline-icons {
+  display: inline-flex;
+  font-size: 1rem;
+  align-items: center;
+  vertical-align: middle;
+  gap: 0.5rem;
+  margin-right: 0.3rem;  /* 텍스트와의 여백 */
+  a {
+    filter: grayscale(1);
+    transition: filter 0.3s ease;
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+  svg {
+    width: 1em;
+    height: 1em;
+    display: block;
+    overflow: visible;
+  }
+  .discord-link { color: #5865F2; }
+  .instagram-link { color: #E4405F; }
+}
+
 div.logoWrapper {
   display: flex;
   flex-wrap: wrap;
