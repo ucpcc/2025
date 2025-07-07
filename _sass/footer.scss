@@ -40,11 +40,11 @@ div.footer_contents div.sponsors {
 
 .footer-inline-icons {
   display: inline-flex;
-  font-size: 1rem;
+  font-size: 1.5rem;
   align-items: center;
   vertical-align: middle;
-  gap: 0.5rem;
-  margin-right: 0.3rem;  /* 텍스트와의 여백 */
+  gap: 1rem;
+  margin-block: 0.5rem;
   a {
     filter: grayscale(1);
     transition: filter 0.3s ease;
@@ -60,6 +60,7 @@ div.footer_contents div.sponsors {
   }
   .discord-link { color: #5865F2; }
   .instagram-link { color: #E4405F; }
+  .facebook-link  { color: #1877F2; }
 }
 
 div.logoWrapper {
