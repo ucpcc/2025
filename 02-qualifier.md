@@ -41,7 +41,7 @@ permalink: /qualifier/
 
 ## 사용 가능 언어
 
-- ICPC 경향을 따라 **C98, C++20, Java, Kotlin, PyPy3**만 사용 가능합니다.
+- ICPC 경향을 따라 **C11, C++20, Java, Kotlin, PyPy3**만 사용 가능합니다.
 - 언어별 환경과 실행방법은 [BOJ의 언어별 환경](https://www.acmicpc.net/help/language) 페이지를 참고해주세요. 안내 페이지에도 있습니다.
 - ICPC 경향을 따라 **언어별 추가 시간과 추가 메모리는 제공되지 않습니다**. 참가자분들은 각 문제에 맞는 적절한 언어를 선택하셔야 합니다.
 
