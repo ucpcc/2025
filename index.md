@@ -5,6 +5,7 @@ title: UCPC 2025
 
 ## 주요 공지
 
+- (7/12) 예선 대회가 종료되었습니다. 본선 진출 팀 및 본선 등록 절차에 대해 공지하였으니 [링크](https://www.acmicpc.net/board/view/161231)를 확인해주세요.
 - (7/1) UCPC 2025 예선 대회에서는 [Zoom을 이용한 실시간 감독](https://docs.google.com/document/d/1vrTIX3RskTrBfxUC0ZcPxCj00-Jco8y_JmncfJhT5WM/edit?usp=sharing)을 진행할 예정입니다.
 - (6/29) UCPC 2025의 [참가 신청](https://forms.gle/zKg7qPYJsY3XdgAU8) 마감이 7월 2일 (수요일)로 연장되었습니다.
 - (6/10) 오늘부터 UCPC 2025의 [참가 신청](https://forms.gle/zKg7qPYJsY3XdgAU8)을 받습니다. 신청은 6월 30일 (월요일)까지입니다.
