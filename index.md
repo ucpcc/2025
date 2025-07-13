@@ -20,8 +20,6 @@ title: UCPC 2025
 
 참가 신청 — **6월 10일 (화요일)**부터 **7월 2일 (수요일)**까지
 
-<span style="font-size: 1.2em;">[참가 신청 링크](https://forms.gle/zKg7qPYJsY3XdgAU8)</span>
-
 예선 — **7월 12일 (토요일)**, 온라인
 
 본선 — **7월 26일 (토요일)**, LG전자 서초R&D캠퍼스
